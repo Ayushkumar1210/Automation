@@ -1,0 +1,26 @@
+{
+  "name": "github_auto",
+  "version": "1.0.0",
+  "description": "Hacker Bolte",
+  "homepage": "https://github.com/Ayushkumar1210/Automation#readme",
+  "bugs": {
+    "url": "https://github.com/Ayushkumar1210/Automation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayushkumar1210/Automation"
+  },
+  "license": "ISC",
+  "author": "Ayush Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1",
+    "random": "^5.4.1",
+    "simple-git": "^3.30.0"
+  }
+}
